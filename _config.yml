@@ -20,7 +20,7 @@ title                    : "포트폴리오1212"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "postponer"
-description              : "포트폴리오 만드는중."
+description              : "포트폴리오 만드는중입니다."
 url                      : "https://tongtongbolsal.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
